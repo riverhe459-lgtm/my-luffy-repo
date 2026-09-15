@@ -13,7 +13,6 @@ tests/
 ```
 
 ### 📝 Complete TODO List
-
 - [ ] `src/models.py:2` - Implement User model with proper fields and methods
 - [ ] `src/models.py:5` - Implement database migration logic
 - [ ] `src/utils.py:2` - Implement password hashing logic
